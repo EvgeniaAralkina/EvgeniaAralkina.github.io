@@ -1,5 +1,6 @@
 body {
   font-family:Lobster, cursive;
+  -webkit-font-family: Comic Sans;
   font-size: 11pt; /* Размер основного шрифта в пунктах  */
   background-color: #2C0571 ; /* Цвет фона веб-страницы */
 
