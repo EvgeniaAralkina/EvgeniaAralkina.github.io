@@ -1,0 +1,91 @@
+body {
+  font-family:Lobster, cursive;
+  font-size: 11pt; /* Размер основного шрифта в пунктах  */
+  background-color: #2C0571 ; /* Цвет фона веб-страницы */
+
+}
+h1 {   /*заголовки*/
+  color: white; /* Цвет заголовка */
+  font-size: 30pt; /* Размер шрифта в пунктах */
+  font-family:monospace, cursive; /* Семейство шрифтов */
+  font-weight: bold; /* Нормальное начертание текста  */
+  border-bottom: 4px solid #FF00A0; /* Параметры линии под текстом */
+}
+h2{   /*пункты меню*/
+  color:#FF00A0; 
+  font-size: 20pt;
+  font-family: monospace;
+  font-weight: bold;
+  text-align: left;
+}
+h3{   /*текущие пункты*/ 
+  color: #DFFA00; 
+  font-size: 20pt;
+  font-family:monospace;
+  font-weight: bold;
+  text-align: left;
+}
+h4{  /*текущие подпункты*/ 
+  color: #FF00A0; 
+  font-size: 15pt;
+  font-family:monospace;
+  font-weight: bold;
+    padding-left: 30px; 
+}
+
+p {
+  text-indent: 20px;
+  text-align: justify; /* Выравнивание по ширине */
+  margin-left: 60px; /* Отступ слева в пикселах */
+  margin-right: 20px; /* Отступ справа в пикселах */
+}
+a {
+  color: white;
+    /* Цвет обычной ссылки */
+    padding: 6px; /* Поля вокруг текста */
+    text-decoration: none;
+   }
+a:hover {
+    color: #f00707; /* Цвет ссылки при наведении на нее курсора мыши */  
+    text-decoration: underline; /* Добавляем подчеркивание */
+   }
+.block1 { 
+    width: 650px;
+    background: #e3f2ff;
+    padding-right: 20px; 
+    border: solid 3px #575c58;
+    float: left;
+    }
+   .block2 { 
+    width: 450px;
+    background: #c4ffcd; 
+    padding: 5px; 
+    border: solid 3px #575c58;
+    float: left; 
+    position: relative; 
+    top: 40px; 
+    right: 20px;
+   }
+   .scale {
+    transition: 1s; /* Время эффекта */
+   }
+   .scale:hover {
+    transform: scale(1.2); /* Увеличиваем масштаб */
+   }
+   .radius {
+    background: #ffe0f9; /* Цвет фона */
+    border: 5px solid black; /* Параметры рамки */
+    padding: 15px; /* Поля вокруг текста */
+    margin-bottom: 1px; /* Отступ снизу */
+   }
+   .radius2 {
+    background: #e1e0ff; /* Цвет фона */
+    border: 5px solid black; /* Параметры рамки */
+    padding: 15px; /* Поля вокруг текста */
+    margin-bottom: 1px; /* Отступ снизу */
+   }
+   #overlay {
+    display: block;
+  }
+  #bio{
+     }
