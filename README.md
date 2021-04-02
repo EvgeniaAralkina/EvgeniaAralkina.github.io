@@ -1,5 +1,11 @@
 # EvgeniaAralkina.github.io
-https://evgeniaaralkina.github.io/ркчир%20кр/
-Тема проекта: интернет-ресурс на тему персонажи мультфильма “Adventure time”
-Зависимости: пока нет 
-Проект доступен по ссылке https://evgeniaaralkina.github.io/ркчир%20кр/
+<h2>Тема проекта</h2>
+<br>
+интернет-ресурс на тему персонажи мультфильма “Adventure time”
+<br>
+<h2>Зависимости</h2>
+<br>
+пока нет
+<br> 
+<h2>Проект доступен по ссылке</h2>
+<br>https://evgeniaaralkina.github.io/ркчир%20кр/
